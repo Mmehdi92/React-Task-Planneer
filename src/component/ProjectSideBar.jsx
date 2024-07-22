@@ -1,4 +1,3 @@
-import { list } from "postcss";
 import Button from "./Button";
 
 export default function ProjectSideBar({ onStartAddProject, projects }) {
